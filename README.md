@@ -1,2 +1,2 @@
 # hiperblog
-Una web de prueba
+Una web de prueba (para probar git)
